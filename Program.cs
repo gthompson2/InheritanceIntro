@@ -11,8 +11,16 @@ namespace InheritanceIntro
             Cessna mx410 = new Cessna();
 
             fxs.Drive();
+            fxs.Turn("left");
+            fxs.Stop();
+
             modelS.Drive();
+            modelS.Turn("right");
+            modelS.Stop();
+
             mx410.Drive();
+            mx410.Turn("left");
+            mx410.Stop();
         }
     }
 }

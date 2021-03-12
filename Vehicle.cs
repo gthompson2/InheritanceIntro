@@ -10,5 +10,15 @@ namespace InheritanceIntro
         {
             Console.WriteLine("Vrooom!");
         }
+
+        public virtual void Turn(string direction)
+        {
+            Console.WriteLine($"Turning {direction}");
+        }
+
+        public virtual void Stop()
+        {
+            Console.WriteLine("Stopping...");
+        }
     }
 }
