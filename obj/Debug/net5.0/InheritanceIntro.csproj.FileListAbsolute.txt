@@ -1,0 +1,16 @@
+C:\Users\mrgre\workspace\server_side\csharp\InheritanceIntro\bin\Debug\net5.0\InheritanceIntro.exe
+C:\Users\mrgre\workspace\server_side\csharp\InheritanceIntro\bin\Debug\net5.0\InheritanceIntro.deps.json
+C:\Users\mrgre\workspace\server_side\csharp\InheritanceIntro\bin\Debug\net5.0\InheritanceIntro.runtimeconfig.json
+C:\Users\mrgre\workspace\server_side\csharp\InheritanceIntro\bin\Debug\net5.0\InheritanceIntro.runtimeconfig.dev.json
+C:\Users\mrgre\workspace\server_side\csharp\InheritanceIntro\bin\Debug\net5.0\InheritanceIntro.dll
+C:\Users\mrgre\workspace\server_side\csharp\InheritanceIntro\bin\Debug\net5.0\ref\InheritanceIntro.dll
+C:\Users\mrgre\workspace\server_side\csharp\InheritanceIntro\bin\Debug\net5.0\InheritanceIntro.pdb
+C:\Users\mrgre\workspace\server_side\csharp\InheritanceIntro\obj\Debug\net5.0\InheritanceIntro.csprojAssemblyReference.cache
+C:\Users\mrgre\workspace\server_side\csharp\InheritanceIntro\obj\Debug\net5.0\InheritanceIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrgre\workspace\server_side\csharp\InheritanceIntro\obj\Debug\net5.0\InheritanceIntro.AssemblyInfoInputs.cache
+C:\Users\mrgre\workspace\server_side\csharp\InheritanceIntro\obj\Debug\net5.0\InheritanceIntro.AssemblyInfo.cs
+C:\Users\mrgre\workspace\server_side\csharp\InheritanceIntro\obj\Debug\net5.0\InheritanceIntro.csproj.CoreCompileInputs.cache
+C:\Users\mrgre\workspace\server_side\csharp\InheritanceIntro\obj\Debug\net5.0\InheritanceIntro.dll
+C:\Users\mrgre\workspace\server_side\csharp\InheritanceIntro\obj\Debug\net5.0\ref\InheritanceIntro.dll
+C:\Users\mrgre\workspace\server_side\csharp\InheritanceIntro\obj\Debug\net5.0\InheritanceIntro.pdb
+C:\Users\mrgre\workspace\server_side\csharp\InheritanceIntro\obj\Debug\net5.0\InheritanceIntro.genruntimeconfig.cache
