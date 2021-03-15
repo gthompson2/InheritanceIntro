@@ -9,5 +9,19 @@ namespace InheritanceIntro
         {
             // method definition?
         }
+
+        public override void Drive()
+        {
+            Console.WriteLine("The black Zero drives past. Zoooooom!");
+        }
+        public override void Turn(string direction)
+        {
+            Console.WriteLine($"The Zero turns {direction}");
+        }
+
+        public override void Stop()
+        {
+            Console.WriteLine("The Zero comes to a smooth stop.");
+        }
     }
 }
