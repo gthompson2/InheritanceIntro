@@ -2,12 +2,12 @@ using System;
 
 namespace InheritanceIntro
 {
-    public class Zero : Vehicle // Electric motorcycle
+    public class Zero : Vehicle, IElectricVehicle // Electric motorcycle
     {
         public double BatteryKWh { get; set; }
         public void ChargeBattery()
         {
-            // method definition?
+            BatteryKWh = 100.00;
         }
 
         public override void Drive()
@@ -22,6 +22,11 @@ namespace InheritanceIntro
         public override void Stop()
         {
             Console.WriteLine("The Zero comes to a smooth stop.");
+        }
+
+        public double CurrentChargePercentage()
+        {
+            return BatteryKWh;
         }
     }
 }

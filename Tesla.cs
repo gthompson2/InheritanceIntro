@@ -2,13 +2,13 @@ using System;
 
 namespace InheritanceIntro
 {
-    public class Tesla : Vehicle // Electric Car
+    public class Tesla : Vehicle, IElectricVehicle // Electric Car
     {
         public double BatteryKWh { get; set; }
 
         public void ChargeBattery()
         {
-            // method?
+            BatteryKWh = 100.00;
         }
 
         public override void Drive()
@@ -24,6 +24,10 @@ namespace InheritanceIntro
         public override void Stop()
         {
             Console.WriteLine("We can't stop, we're floating in space!");
+        }
+        public double CurrentChargePercentage()
+        {
+            return BatteryKWh;
         }
     }
 }

@@ -2,7 +2,7 @@ using System;
 
 namespace InheritanceIntro
 {
-    public class Cessna : Vehicle, IGasVehicle // Propellor light aircraft
+    public class Ram : Vehicle, IGasVehicle
     {
         public double FuelCapacity { get; set; }
 
@@ -13,22 +13,24 @@ namespace InheritanceIntro
 
         public override void Drive()
         {
-            Console.WriteLine("The green Cessna drives past. Whoooooosh!");
+            Console.WriteLine("The Silver Ram drives past. Ruuuuuuuuummmmmm!");
         }
 
         public override void Turn(string direction)
         {
-            Console.WriteLine($"The Cessna careens {direction}");
+            Console.WriteLine($"The Ram careens {direction}");
         }
 
         public override void Stop()
         {
-            Console.WriteLine("The Cessna screeches to a halt after half a mile.");
+            Console.WriteLine("The Ram Grinds to a halt.");
         }
 
         public double CurrentTankPercentage()
         {
             return FuelCapacity;
         }
+
+
     }
 }
